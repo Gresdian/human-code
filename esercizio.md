@@ -10,7 +10,7 @@
 5. Entro nel supermercato
 6. Prendo il carrello  
 7. Cerco gli articoli scritti nella lista fra gli scaffali
-    - SE Ã¨ presente l'elemento lo prendo
+    - SE è presente l'elemento lo prendo
     - ALTRIMENTI passo al prossimo elemento
 8. Controllo la lista
     - SE ho preso tutti gli articoli vado alla cassa
